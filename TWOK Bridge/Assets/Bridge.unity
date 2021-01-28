@@ -203,10 +203,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1839608548333461349, guid: fcbf9482dad922440b5c2a7881c4f4a0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -1839608548333461349, guid: fcbf9482dad922440b5c2a7881c4f4a0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fcbf9482dad922440b5c2a7881c4f4a0,
         type: 3}
       propertyPath: m_Name
       value: RefitBridgeCeiling_1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fcbf9482dad922440b5c2a7881c4f4a0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8409392943334455353, guid: fcbf9482dad922440b5c2a7881c4f4a0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 8409392943334455353, guid: fcbf9482dad922440b5c2a7881c4f4a0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fcbf9482dad922440b5c2a7881c4f4a0, type: 3}
@@ -470,7 +495,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1400092436
 Transform:
@@ -1317,7 +1342,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1933990202
 Transform:
