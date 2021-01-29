@@ -323,7 +323,7 @@ GameObject:
   - component: {fileID: 119236813}
   - component: {fileID: 119236812}
   - component: {fileID: 119236816}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -397,12 +397,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 119236811}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2.969, y: 0.762, z: 1.657}
   m_LocalScale: {x: 0.50693, y: 0.50693, z: 0.50693}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_Father: {fileID: 1181844468}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &119236816
 Animator:
@@ -1125,6 +1125,8 @@ Transform:
   - {fileID: 2115850859}
   - {fileID: 1930300237}
   - {fileID: 776205791}
+  - {fileID: 119236815}
+  - {fileID: 1381597619}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1420,7 +1422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1381597619}
   - component: {fileID: 1381597618}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Light Probe Group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1462,12 +1464,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1381597617}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.085, y: 1.2175394, z: 0.7741133}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_Father: {fileID: 1181844468}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1400092435
 GameObject:
